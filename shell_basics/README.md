@@ -12,3 +12,4 @@ back - changes workoing directry to the previous one
 lists - lists all files including hidden in long formart
 file_type - prints the type of the named file
 symbolic link - creates symbolic link to a directory
+copy_html - copies html file to parent directory
