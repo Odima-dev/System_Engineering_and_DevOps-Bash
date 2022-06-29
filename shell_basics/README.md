@@ -15,3 +15,4 @@ symbolic link - creates symbolic link to a directory
 copy_html - copies html file to parent directory
 lets_move - moves files beginning with uppercase to directory
 clean_emacs - deletes all files ending with ~
+102-tree - creates directories in current directory
