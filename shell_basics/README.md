@@ -10,3 +10,4 @@ firstdelete - deletes the file betty
 firstdirdeletion - deletes directory
 back - changes workoing directry to the previous one
 lists - lists all files including hidden in long formart
+file_type - prints the type of the named file
