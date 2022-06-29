@@ -13,3 +13,4 @@ lists - lists all files including hidden in long formart
 file_type - prints the type of the named file
 symbolic link - creates symbolic link to a directory
 copy_html - copies html file to parent directory
+lets_move - moves files beginning with uppercase to directory
